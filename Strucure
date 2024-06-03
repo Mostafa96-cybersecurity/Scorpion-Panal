@@ -1,0 +1,3 @@
+mkdir -p app/templates
+mkdir scripts
+touch app/__init__.py app/app.py app/templates/index.html scripts/install.sh requirements.txt README.md
